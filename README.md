@@ -1,6 +1,6 @@
-# Mata Mosquito 
+<h1 align="center">Mata Mosquito🦟</h1> 
 
-## Sobre o desenvolvimento
+## Sobre o desenvolvimento 🔎
 Projeto feito para fins didáticos e prática da linguagem JavaScript. O desenvolvimento desse projeto foi feito usando as tecnologias:
 
 ### Tecnologias: <h3> 
@@ -15,7 +15,7 @@ Projeto feito para fins didáticos e prática da linguagem JavaScript. O desenvo
 
 >Observações: O foco deste projeto foi o treinamento e prática da linguagem JavaScript. Por isso a escolha de utilizar estilos basicos e classes nativas do Bootstrap para a criação de alguns elementos da página, pois o foco do projeto está em sua lógica de programação.
 
-## Sobre o Game
+## Sobre o Game 🎮
 
 A lógica do jogo é simples: haverá mosquitos que serão gerados de maneira aleatória em toda área utíl dá página, seu objetivo é matar todos enquanto o tempo de 15 segundos durar, se os mosquitos desaparecerem sem que tenha dado tempo de mata-lo, você perderá um ponto de vida, caso perdido três pontos de vida o jogo dará game over, caso você tenha mantido seus pontos de vidas até que acabe o tempo, o jogo irá exibir uma tela de vitória.
 
@@ -27,7 +27,7 @@ O jogo é composto por três dificuldades:
 
 A dificuldade poderá ser escolhida na tela principal do jogo.
 
-## Previews
+## Previews 📷
 
 <div align="center">
     <img src="imagens/preview1.png" width="700">
